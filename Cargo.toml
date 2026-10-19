@@ -4,6 +4,11 @@ version = "1.0.0"
 edition = "2021"
 authors = ["Gaurav Sablok <gsablok@proton.me>"]
 description = "egui desktop application for the evAI variant/genome annotation utilities"
+license = "MIT"
+homepage = "https://github.com/sablokg/evaiutilities-desktop"
+repository = "https://github.com/sablokg/evaiutilities-desktop"
+keywords = ["bioinformatics","genomics","human"]
+
 
 [lib]
 name = "evai_gui"
